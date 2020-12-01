@@ -634,8 +634,10 @@
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
+            
 		};
 /* End XCConfigurationList section */
 	};
 	rootObject = DDC9FD8D1981B4DD009612C7 /* Project object */;
+    BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 }
